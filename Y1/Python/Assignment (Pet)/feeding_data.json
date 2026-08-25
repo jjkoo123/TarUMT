@@ -1,0 +1,17 @@
+{
+  "pets": [
+    {
+      "name": "John",
+      "type": "Dog",
+      "age": 1,
+      "breed": "-"
+    },
+    {
+      "name": "petpet",
+      "type": "Cat",
+      "age": 80,
+      "breed": "gaydog"
+    }
+  ],
+  "records": []
+}
