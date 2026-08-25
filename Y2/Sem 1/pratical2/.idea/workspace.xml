@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afce979e-ac99-4b42-9aef-d36aea79119f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile App/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assembly/L3Q4.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assembly/brgr.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assembly/dataEntryModule.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assembly/hi.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assembly/hw.asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/InPatientBill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/InPatientBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/OutPatientBill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/OutPatientBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/PatientBill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q1/PatientBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/Pratical Question/P7Q3/PatientBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/MainController/BookedPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/MainController/BookingPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/MainController/PaymentPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/MainController/PenaltyPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/MainController/RentalPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/MainPage/MainPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/StaffController/StaffAddCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/StaffController/StaffCheckConditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/StaffController/StaffPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/StaffController/StaffRemoveCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/StaffController/StaffViewCars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/CarSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/Logo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/PayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/PaymentDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/PenaltyDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/Penaltys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/RentalDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/RentalPrice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/SaveProgress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/TempKeys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/bin/entity/TempValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/carProgress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/payProgress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/penaltyProgress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/MainController/BookedPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/MainController/BookingPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/MainController/PaymentPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/MainController/PenaltyPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/MainController/RentalPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/MainPage/MainPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/StaffController/StaffAddCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/StaffController/StaffCheckConditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/StaffController/StaffPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/StaffController/StaffRemoveCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/StaffController/StaffViewCars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/CarSpec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/Logo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/PayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/PaymentDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/PenaltyDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/Penaltys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/RentalDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/RentalPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/SaveProgress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/TempKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/entity/TempValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/VIYEAHCLE/src/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/carProgress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/payProgress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/penaltyProgress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/assignment (DCS)/overall_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/hello world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/keyword_bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/mbti_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/mbti_bar_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/mbti_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/mbti_distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/module2_mbti_bar_pie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/module3_sentiment_boxplot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/module5_mbti_radar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/module6_mbti_wordcloud.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/关键词柱状图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/截屏2025-06-23 上午1.23.49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/截屏2025-06-23 上午1.40.16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块1_mbti清洗分析.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块1_互动汇总表.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块1_词数分布图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块2 MBTI类型分布分析_形状图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块2 MBTI类型分布分析_饼图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块2_mbti可视化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块3_情感倾向分析.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块5_MBTI雷达图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/waiyan/计算思维第四组(mbti)/Data/模块6_词云图.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jjkoo123"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jjkoo123/TarUMT.git",
+    "accountId": "80c3a863-ea00-4458-b494-621fb598a6f3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FhZZTjbsiNZRIOlWwBbYY1nn2u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="pratical_2.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afce979e-ac99-4b42-9aef-d36aea79119f" name="Changes" comment="" />
+      <created>1782529316699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782529316699</updated>
+    </task>
+    <servers />
+  </component>
+</project>
