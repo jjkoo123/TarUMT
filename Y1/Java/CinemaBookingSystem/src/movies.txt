@@ -1,0 +1,9 @@
+The Batman|Action / Crime|Standard, 3D, 4D, IMAX|176|11:00 AM;3:00 PM;9:00 PM
+Spider-Man: No Way Home|Action / Adventure|3D|148|9:30 AM;1:30 PM;7:30 PM
+Dune: Part Two|Sci-Fi / Adventure|IMAX|166|12:00 PM;4:30 PM;10:00 PM
+Oppenheimer|Biography / Drama|Standard|180|1:00 PM;6:00 PM
+TarUMT RedBricks|Romantic/History|3D|115|10:00 AM;12:00PM;02:30PM
+Hallo This is OOP Assignment|Action|3D, 4D, IMAX|12|12:00 PM
+CinemBookingSystem|Live|3D, IMAX|120|10:00 AM
+Super Mario|Gaming|4D|120|8:00 PM
+ish|general|IMAX|150|6:00 AM

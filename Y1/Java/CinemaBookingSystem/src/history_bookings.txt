@@ -1,0 +1,14 @@
+koo|Avengers: Endgame|IMAX|8:00 PM|0|3|E-Wallet|18.0
+koo|Avengers: Endgame|IMAX|2:00 PM|0|1|Cash|20.7
+a1s2d3|The Batman|Standard|11:00 AM|0|0|Cash|21.599999999999998
+a1s2d3|Avengers: Endgame|IMAX|2:00 PM|0|0|Cash|21.599999999999998
+koo|Avengers: Endgame|IMAX|2:00 PM|0|2|Credit Card|21.599999999999998
+koo|Avengers: Endgame|IMAX|10:00 AM|0|0|Credit Card|21.599999999999998
+koo|Avengers: Endgame|IMAX|10:00 AM|0|1|Cash|21.599999999999998
+koo|"Hello World"|Standard|1:00 PM|0|1|E-Wallet|18.0
+koo|The Batman|Standard|3:00 PM|0|0|E-Wallet|20.7
+koo|The Batman|Standard|11:00 AM|0|0|Credit Card|18.0
+koo|Dune: Part Two|IMAX|12:00 PM|2|3|E-Wallet|21.599999999999998
+koo|Hallo This is OOP Assignment|IMAX|12:00 PM|4|4|Cash|21.599999999999998
+koo|The Power of AI|4D|3:00 PM|2|1|Cash|22.5
+koo|The Batman|3D|3:00 PM|0|3|E-Wallet|20.7

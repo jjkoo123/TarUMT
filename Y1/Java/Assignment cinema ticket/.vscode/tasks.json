@@ -1,0 +1,47 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile Cinema Ticket System",
+            "type": "shell",
+            "command": "javac",
+            "args": [
+                "-d",
+                "build/classes",
+                "-sourcepath",
+                "src",
+                "src/UserManagement/MainMenu.java"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "problemMatcher": [
+                "$javac"
+            ]
+        },
+        {
+            "label": "Run Cinema Ticket System",
+            "type": "shell",
+            "command": "java",
+            "args": [
+                "-cp",
+                "build/classes",
+                "UserManagement.MainMenu"
+            ],
+            "dependsOn": [
+                "Compile Cinema Ticket System"
+            ],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "focus": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
